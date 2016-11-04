@@ -19,6 +19,9 @@
     "flatiron",
     "learn"
   ],
+  "scripts": {
+    "test": "mocha"
+  },
   "author": "pletcher",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
